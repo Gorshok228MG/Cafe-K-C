@@ -3,8 +3,8 @@ body {
 }
 
 header {
-    background-color: black;
-    padding: 15px;
+    background-color:  black;
+    padding: 15px;;
 }
 
 .link-header{
@@ -15,6 +15,19 @@ header {
 .link-nav {
     color: black;
 }
+
+.link-text {
+    color:darkseagreen;
+}
+
 footer img {
     margin: 10px;
+}
+
+ol {
+    color: grey;
+}
+
+p {
+    color: grey;
 }
